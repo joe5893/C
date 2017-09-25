@@ -1,5 +1,5 @@
 /*
-Author: ¹ù°²½à£¬Ñ§ºÅ£º2017141461297
+Author: Angela GUO, 2017141461297
 Time: 2017/9/24 
 */
 #include <stdio.h>
